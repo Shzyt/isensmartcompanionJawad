@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ISENSmartCompanion</string>
+    <string name="history_screen_label_title">Historique des conversations</string>
+    <string name="history_screen_label_description">Voici lhistorique de vos interactions précédentes.</string>
+    <string name="history_screen_label_clear_all">Effacer tout lhistorique</string>
+    <string name="history_screen_label_date">Date : </string>
+    <string name="history_screen_label_question">Question : </string>
+    <string name="history_screen_label_answer">Réponse : </string>
+    <string name="history_screen_label_delete">Supprimer</string>
+</resources>
